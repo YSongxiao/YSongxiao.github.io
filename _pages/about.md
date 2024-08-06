@@ -23,8 +23,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2024.08*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.06*: &nbsp;🎉🎉 We achieved 5th on the CVPR 2024: Segment Anything In Medical Images On Laptop.
+- *2024.04*: &nbsp;🎉🎉 New paper on MRI reconstruction is accepted by EMBC2024. 
+
 
 # 📝 Publications 
 
