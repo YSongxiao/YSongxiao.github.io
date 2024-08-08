@@ -30,7 +30,19 @@ My research interest includes medical imaging and computer vision.  <a href='htt
 - *2024.04*: &nbsp;🎉🎉 New paper on MRI reconstruction is accepted by EMBC2024. 
 
 
-# 📝 Publications 
+# 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMBC 2024</div><img src='/images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[//]: # ([Instance-Wise MRI Reconstruction Based on Self-Supervised Implicit Neural Representation]&#40;https://arxiv.org/pdf/2204.02809&#41;)
+Instance-Wise MRI Reconstruction Based on Self-Supervised Implicit Neural Representation (to appear)
+
+**Songxiao Yang**, Yizhou Li, Masatoshi Okutomi
+
+[//]: # ([**Project**]&#40;https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DA_FIFkAAAAJ&citation_for_view=DA_FIFkAAAAJ:u-x6o8ySG0sC&#41; <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2022</div><img src='/images/cikm22-500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -58,8 +70,8 @@ Zhongshu Zheng, Ling Ma, **Songxiao Yang**, Said Boumaraf, Xiabi Liu, Xiaohong M
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09* I received the "ICT Outstanding Student Award (Masters)" from the Department of Information and Communication Engineering.  
+- *2022.06* I received the "Best Research Proposal Presentation Award" from the Department of Information and Communication Engineering. 
 
 # 📖 Educations
 - *2023.09 - present*, Tokyo Institute of Technology, System and Control Engineering, Doctor of Engineering.
