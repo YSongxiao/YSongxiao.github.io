@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Welcome to my homepage!
-I am a PhD student in Okutomi Lab at [Tokyo Institute of Technology](https://www.titech.ac.jp/). I am working with [Masatoshi Okutomi](http://www.ok.sc.e.titech.ac.jp/mem/mxo/okutomi.html). 
+I am a PhD student in Okutomi Lab at [Tokyo Institute of Technology](https://www.titech.ac.jp/). Currently I am working with [Masatoshi Okutomi](http://www.ok.sc.e.titech.ac.jp/mem/mxo/okutomi.html). 
 
 My research interest includes medical imaging and computer vision.  <a href='https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID&user=DA_FIFkAAAAJ'>
 
