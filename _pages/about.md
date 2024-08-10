@@ -32,6 +32,18 @@ My research interest includes medical imaging and computer vision.  <a href='htt
 
 # 📝 Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024 Workshop</div><img src='/images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[//]: # ([Instance-Wise MRI Reconstruction Based on Self-Supervised Implicit Neural Representation]&#40;https://arxiv.org/pdf/2204.02809&#41;)
+A Light-weight Universal Medical Segmentation Network for Laptops Based on Knowledge Distillation (to appear)
+
+**Songxiao Yang**, Yizhou Li, Ye Chen, Zhuofeng Wu, Masatoshi Okutomi
+
+[//]: # ([**Project**]&#40;https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DA_FIFkAAAAJ&citation_for_view=DA_FIFkAAAAJ:u-x6o8ySG0sC&#41; <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMBC 2024</div><img src='/images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -63,11 +75,12 @@ Sheng-Fu Wang, Shu-Hang Liu, Tian-Yi Che, Yi-Fan Lu, **Song-Xiao Yang**, Heyan H
 Zhongshu Zheng, Ling Ma, **Songxiao Yang**, Said Boumaraf, Xiabi Liu, Xiaohong Ma
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DA_FIFkAAAAJ&citation_for_view=DA_FIFkAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+[//]: # (- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+[//]: # (- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet]&#40;https://github.com&#41;, A, B, C, **CVPR 2020**)
 
 # 🎖 Honors and Awards
 - *2023.09* I received the "ICT Outstanding Student Award (Masters)" from the Department of Information and Communication Engineering.  
