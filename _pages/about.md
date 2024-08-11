@@ -96,5 +96,6 @@ Zhongshu Zheng, Ling Ma, **Songxiao Yang**, Said Boumaraf, Xiabi Liu, Xiaohong M
 [//]: # (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]]&#40;https://github.com/&#41;)
 
 # 💻 Internships
-- *2024.01 - 2024.06*, [Oppo Japan Research Center](https://www.oppo.com/jp/), Yokohama, Kanagawa, Japan.
-- *2021.11 - 2022.06*, [Beijing Institute of Technology](https://english.bit.edu.cn/), Beijing, China. Project URL: [HammerPDF](https://pdf.hammerscholar.net/)
+- *2024.01 - 2024.06*, Computer Vision Algorithm Engineer, [Oppo Japan Research Center](https://www.oppo.com/jp/), Yokohama, Kanagawa, Japan.
+- *2022.09 - 2023.04*, Research Assistant, [Tokyo Institute of Technology](https://www.titech.ac.jp/english), Yokohama, Kanagawa, Japan.
+- *2021.11 - 2022.06*, Research Assistant, [Beijing Institute of Technology](https://english.bit.edu.cn/), Beijing, China. Project URL: [HammerPDF](https://pdf.hammerscholar.net/)
