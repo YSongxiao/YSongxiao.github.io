@@ -83,6 +83,7 @@ Zhongshu Zheng, Ling Ma, **Songxiao Yang**, Said Boumaraf, Xiabi Liu, Xiaohong M
 [//]: # (- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet]&#40;https://github.com&#41;, A, B, C, **CVPR 2020**)
 
 # 🎖 Honors and Awards
+- *2024.06* I received the "Meritorious Winner Award"(Top5) from CVPR 2024: Segment Anything In Medical Images On Laptop.
 - *2023.09* I received the "ICT Outstanding Student Award (Masters)" from the Department of Information and Communication Engineering.  
 - *2022.06* I received the "Best Research Proposal Presentation Award" from the Department of Information and Communication Engineering. 
 
