@@ -87,6 +87,9 @@ Zhongshu Zheng, Ling Ma, **Songxiao Yang**, Said Boumaraf, Xiabi Liu, Xiaohong M
 - *2023.09* I received the "ICT Outstanding Student Award (Masters)" from the Department of Information and Communication Engineering.  
 - *2022.06* I received the "Best Research Proposal Presentation Award" from the Department of Information and Communication Engineering. 
 
+# ⚖️ Academic Service
+- Reviewer of 2024 IEEE International Conference on Bioinformatics and Biomedicine.
+
 # 📖 Educations
 - *2023.09 - present*, Tokyo Institute of Technology, System and Control Engineering, Doctor of Engineering.
 - *2021.09 - 2023.09*, Tokyo Institute of Technology, Information and Communication Engineering, Master of Engineering.
