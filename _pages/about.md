@@ -26,8 +26,8 @@ My research interest includes medical imaging and computer vision.  <a href='htt
 
 
 # 🔥 News
-- *2024.06*: &nbsp;🎉🎉 We achieved 5th on the CVPR 2024: Segment Anything In Medical Images On Laptop.
-- *2024.04*: &nbsp;🎉🎉 New paper on MRI reconstruction is accepted by EMBC2024. 
+- *2024.06*: &nbsp;🎉🎉 We achieved Top-5 in the CVPR 2024: Segment Anything In Medical Images On Laptop.
+- *2024.04*: &nbsp;🎉🎉 New paper on MRI reconstruction is accepted by IEEE EMBC2024. 
 
 
 # 📝 Publications
