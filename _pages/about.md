@@ -109,7 +109,7 @@ AP-DPM: A Dual-Path Merging Network via Adversarial Anatomical Prior Guidance fo
 
 Sheng-Fu Wang, Shu-Hang Liu, Tian-Yi Che, Yi-Fan Lu, **Song-Xiao Yang**, Heyan Huang, Xian-Ling Mao
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DA_FIFkAAAAJ&citation_for_view=DA_FIFkAAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[//]: # ([**Project**]&#40;https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DA_FIFkAAAAJ&citation_for_view=DA_FIFkAAAAJ:u-x6o8ySG0sC&#41; <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>)
 </div>
 </div>
 
@@ -120,7 +120,7 @@ Sheng-Fu Wang, Shu-Hang Liu, Tian-Yi Che, Yi-Fan Lu, **Song-Xiao Yang**, Heyan H
 
 Zhongshu Zheng, Ling Ma, **Songxiao Yang**, Said Boumaraf, Xiabi Liu, Xiaohong Ma
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DA_FIFkAAAAJ&citation_for_view=DA_FIFkAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[//]: # ([**Project**]&#40;https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DA_FIFkAAAAJ&citation_for_view=DA_FIFkAAAAJ:u5HHmVD_uO8C&#41; <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>)
 
 [//]: # (- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 </div>
