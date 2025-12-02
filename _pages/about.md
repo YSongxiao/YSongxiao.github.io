@@ -26,17 +26,62 @@ My research interest includes medical imaging and computer vision.  <a href='htt
 
 
 # 🔥 News
+- *2025.10*: &nbsp;🎉🎉 New paper on Segmentation of Wrist Carpal Bones is accepted by IEEE BIBM2025.
+- *2025.10*: &nbsp;🎉🎉 The extension of IEEE EMBC2024 paper is accepted by BSPC2026.
+- *2025.09*: &nbsp;🎉🎉 New paper on Multi-task X-Ray Rheumatoid Arthritis Database is accepted by NeurIPS2025.
 - *2024.06*: &nbsp;🎉🎉 We achieved Top-5 in the CVPR 2024: Segment Anything In Medical Images On Laptop.
 - *2024.04*: &nbsp;🎉🎉 New paper on MRI reconstruction is accepted by IEEE EMBC2024. 
 
 
 # 📝 Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2025</div><img src='/images/bibm25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[//]: # ([AP-DPM: A Dual-Path Merging Network via Adversarial Anatomical Prior Guidance for Wrist Bone Segmentation]&#40;https://www.sciencedirect.com/science/article/pii/S1746809425013497&#41;&#41;)
+
+AP-DPM: A Dual-Path Merging Network via Adversarial Anatomical Prior Guidance for Wrist Bone Segmentation (to appear)
+
+**Songxiao Yang**, Haolin Wang, Masayuki Ikebe, Tamotsu Kamishima, Yafei Ou, Masatoshi Okutomi
+
+[//]: # ([**Project**]&#40;https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DA_FIFkAAAAJ&citation_for_view=DA_FIFkAAAAJ:u-x6o8ySG0sC&#41; <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BSPC 2026</div><img src='/images/bspc26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PixelINR: Scan-specific self-supervised MRI reconstruction based on implicit neural representations](https://www.sciencedirect.com/science/article/pii/S1746809425013497))
+
+[//]: # (A Light-weight Universal Medical Segmentation Network for Laptops Based on Knowledge Distillation &#40;to appear&#41;)
+
+**Songxiao Yang**, Yafei Ou, Masatoshi Okutomi
+
+[//]: # ([**Project**]&#40;https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DA_FIFkAAAAJ&citation_for_view=DA_FIFkAAAAJ:u-x6o8ySG0sC&#41; <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='/images/nips25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RAM-W600: A Multi-Task Wrist Dataset and Benchmark for Rheumatoid Arthritis](https://openreview.net/forum?id=a61AArHrMO&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2025%2FDatasets_and_Benchmarks_Track%2FAuthors%23your-submissions)))
+
+[//]: # (A Light-weight Universal Medical Segmentation Network for Laptops Based on Knowledge Distillation &#40;to appear&#41;)
+
+**Songxiao Yang**, Haolin Wang, Yao Fu, Ye Tian, Tamotsu Kamishima, Masayuki Ikebe, Yafei Ou, Masatoshi Okutomi
+
+[//]: # ([**Project**]&#40;https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DA_FIFkAAAAJ&citation_for_view=DA_FIFkAAAAJ:u-x6o8ySG0sC&#41; <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>)
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024 Workshop</div><img src='/images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[//]: # ([Instance-Wise MRI Reconstruction Based on Self-Supervised Implicit Neural Representation]&#40;https://arxiv.org/pdf/2204.02809&#41;)
-A Light-weight Universal Medical Segmentation Network for Laptops Based on Knowledge Distillation (to appear)
+[A Light-weight Universal Medical Segmentation Network for Laptops Based on Knowledge Distillation](https://link.springer.com/chapter/10.1007/978-3-031-81854-7_6)
+
+[//]: # (A Light-weight Universal Medical Segmentation Network for Laptops Based on Knowledge Distillation &#40;to appear&#41;)
 
 **Songxiao Yang**, Yizhou Li, Ye Chen, Zhuofeng Wu, Masatoshi Okutomi
 
@@ -44,11 +89,12 @@ A Light-weight Universal Medical Segmentation Network for Laptops Based on Knowl
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMBC 2024</div><img src='/images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMBC 2024</div><img src='/images/embc24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[//]: # ([Instance-Wise MRI Reconstruction Based on Self-Supervised Implicit Neural Representation]&#40;https://arxiv.org/pdf/2204.02809&#41;)
-Instance-Wise MRI Reconstruction Based on Self-Supervised Implicit Neural Representation (to appear)
+[Instance-Wise MRI Reconstruction Based on Self-Supervised Implicit Neural Representation](https://ieeexplore.ieee.org/abstract/document/10781752)
+
+[//]: # (Instance-Wise MRI Reconstruction Based on Self-Supervised Implicit Neural Representation &#40;to appear&#41;)
 
 **Songxiao Yang**, Yizhou Li, Masatoshi Okutomi
 
@@ -88,6 +134,7 @@ Zhongshu Zheng, Ling Ma, **Songxiao Yang**, Said Boumaraf, Xiabi Liu, Xiaohong M
 - *2022.06* I received the "Best Research Proposal Presentation Award" from the Department of Information and Communication Engineering. 
 
 # ⚖️ Academic Service
+- Reviewer of 2025 IEEE International Conference on Bioinformatics and Biomedicine.
 - Reviewer of 2024 IEEE International Conference on Bioinformatics and Biomedicine.
 
 # 📖 Educations
@@ -100,6 +147,7 @@ Zhongshu Zheng, Ling Ma, **Songxiao Yang**, Said Boumaraf, Xiabi Liu, Xiaohong M
 [//]: # (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]]&#40;https://github.com/&#41;)
 
 # 💻 Internships
+- *2025.06 - 2025.12*, Computer Vision Algorithm Engineer, [Huawei Japan Research Center](https://www.oppo.com/jp/), Shinagawa, Tokyo, Japan.
 - *2024.01 - 2024.06*, Computer Vision Algorithm Engineer, [Oppo Japan Research Center](https://www.oppo.com/jp/), Yokohama, Kanagawa, Japan.
 - *2022.09 - 2023.04*, Research Assistant, [Tokyo Institute of Technology](https://www.titech.ac.jp/english), Yokohama, Kanagawa, Japan.
 - *2021.11 - 2022.06*, Research Assistant, [Beijing Institute of Technology](https://english.bit.edu.cn/), Beijing, China. Project URL: [HammerPDF](https://pdf.hammerscholar.net/)
