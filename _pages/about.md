@@ -136,6 +136,7 @@ Zhongshu Zheng, Ling Ma, **Songxiao Yang**, Said Boumaraf, Xiabi Liu, Xiaohong M
 - *2022.06* I received the "Best Research Proposal Presentation Award" from the Department of Information and Communication Engineering. 
 
 # ⚖️ Academic Service
+- Reviewer of NeurIPS 2026.
 - Reviewer of 2025 IEEE International Conference on Bioinformatics and Biomedicine.
 - Reviewer of 2024 IEEE International Conference on Bioinformatics and Biomedicine.
 
