@@ -26,6 +26,7 @@ My research interest includes medical imaging and computer vision.  <a href='htt
 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 New paper on Pipeline Magnetic Flux Leakage Imaging is accepted by SIGKDD2026.
 - *2025.10*: &nbsp;🎉🎉 New paper on Segmentation of Wrist Carpal Bones is accepted by IEEE BIBM2025.
 - *2025.10*: &nbsp;🎉🎉 The extension of IEEE EMBC2024 paper is accepted by BSPC2026.
 - *2025.09*: &nbsp;🎉🎉 New paper on Multi-task X-Ray Rheumatoid Arthritis Database is accepted by NeurIPS2025.
