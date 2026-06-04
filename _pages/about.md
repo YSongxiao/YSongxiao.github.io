@@ -27,6 +27,7 @@ My research interest includes medical imaging and computer vision.  <a href='htt
 
 # 🔥 News
 - *2026.05*: &nbsp;🎉🎉 New paper on Pipeline Magnetic Flux Leakage Imaging is accepted by SIGKDD2026.
+- *2026.05*: &nbsp;🎉🎉 New paper on Segmentation of Bone Erosion is accepted by IEEE EMBC2026.
 - *2025.10*: &nbsp;🎉🎉 New paper on Segmentation of Wrist Carpal Bones is accepted by IEEE BIBM2025.
 - *2025.10*: &nbsp;🎉🎉 The extension of IEEE EMBC2024 paper is accepted by BSPC2026.
 - *2025.09*: &nbsp;🎉🎉 New paper on Multi-task X-Ray Rheumatoid Arthritis Database is accepted by NeurIPS2025.
@@ -130,6 +131,7 @@ Zhongshu Zheng, Ling Ma, **Songxiao Yang**, Said Boumaraf, Xiabi Liu, Xiaohong M
 [//]: # (- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet]&#40;https://github.com&#41;, A, B, C, **CVPR 2020**)
 
 # 🎖 Honors and Awards
+- *2025.11* I received the Student Travel Grant from IEEE EMBC 2026.
 - *2025.11* I received the Student Award from BIBM 2025.
 - *2025.10* I received the Scholar Award from NeurIPS 2025.
 - *2024.06* I received the "Meritorious Winner Award"(Top5) from CVPR 2024: Segment Anything In Medical Images On Laptop.
@@ -137,9 +139,8 @@ Zhongshu Zheng, Ling Ma, **Songxiao Yang**, Said Boumaraf, Xiabi Liu, Xiaohong M
 - *2022.06* I received the "Best Research Proposal Presentation Award" from the Department of Information and Communication Engineering. 
 
 # ⚖️ Academic Service
-- Reviewer of NeurIPS 2026.
-- Reviewer of 2025 IEEE International Conference on Bioinformatics and Biomedicine.
-- Reviewer of 2024 IEEE International Conference on Bioinformatics and Biomedicine.
+- Reviewer of NeurIPS. (2026)
+- Reviewer of IEEE International Conference on Bioinformatics and Biomedicine. (2024~)
 
 # 📖 Educations
 - *2023.09 - present*, Tokyo Institute of Technology, System and Control Engineering, Doctor of Engineering.
@@ -151,7 +152,8 @@ Zhongshu Zheng, Ling Ma, **Songxiao Yang**, Said Boumaraf, Xiabi Liu, Xiaohong M
 [//]: # (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]]&#40;https://github.com/&#41;)
 
 # 💻 Internships
-- *2025.06 - 2025.12*, Computer Vision Algorithm Engineer, [Huawei Japan Research Center](https://www.oppo.com/jp/), Shinagawa, Tokyo, Japan.
+- *2025.01 - present*, AI Research Engineer, [Splink,inc.](https://www.splinkns.com/), Minato, Tokyo, Japan.
+- *2025.06 - 2025.12*, Computer Vision Algorithm Engineer, [Huawei Japan Research Center](https://www.huawei.com/jp/), Shinagawa, Tokyo, Japan.
 - *2024.01 - 2024.06*, Computer Vision Algorithm Engineer, [Oppo Japan Research Center](https://www.oppo.com/jp/), Yokohama, Kanagawa, Japan.
 - *2022.09 - 2023.04*, Research Assistant, [Tokyo Institute of Technology](https://www.titech.ac.jp/english), Yokohama, Kanagawa, Japan.
 - *2021.11 - 2022.06*, Research Assistant, [Beijing Institute of Technology](https://english.bit.edu.cn/), Beijing, China. Project URL: [HammerPDF](https://pdf.hammerscholar.net/)
