@@ -42,7 +42,7 @@ My research interest includes medical imaging and computer vision.  <a href='htt
 
 [PipeMFL-240K: A Dataset and Benchmark for Object Detection in Pipeline Magnetic Flux Leakage Imaging](https://arxiv.org/abs/2602.07044))
 
-Tianyi Qu\*, **Songxiao Yang**\*, Haolin Wang*, Huadong Song, Xiaoting Guo, Wenguang Hu, Guanlin Liu, Honghe Chen, Yafei Ou
+Tianyi Qu#, **Songxiao Yang**#, Haolin Wang#, Huadong Song, Xiaoting Guo, Wenguang Hu, Guanlin Liu, Honghe Chen, Yafei Ou
 
 [//]: # ([**Project**]&#40;https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DA_FIFkAAAAJ&citation_for_view=DA_FIFkAAAAJ:u-x6o8ySG0sC&#41; <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>)
 </div>
