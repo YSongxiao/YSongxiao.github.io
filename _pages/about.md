@@ -40,7 +40,7 @@ My research interest includes medical imaging and computer vision.  <a href='htt
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='/images/kdd26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PipeMFL-240K: A Dataset and Benchmark for Object Detection in Pipeline Magnetic Flux Leakage Imaging](https://arxiv.org/abs/2602.07044))
+[PipeMFL-240K: A Dataset and Benchmark for Object Detection in Pipeline Magnetic Flux Leakage Imaging](https://arxiv.org/abs/2602.07044)
 
 Tianyi Qu\*, **Songxiao Yang**\*, Haolin Wang*, Huadong Song, Xiaoting Guo, Wenguang Hu, Guanlin Liu, Honghe Chen, Yafei Ou
 
@@ -65,7 +65,7 @@ BESegNet: A Bone Erosion Segmentation Network for Rheumatoid Arthritis in Conven
 
 [//]: # ([AP-DPM: A Dual-Path Merging Network via Adversarial Anatomical Prior Guidance for Wrist Bone Segmentation]&#40;https://www.sciencedirect.com/science/article/pii/S1746809425013497&#41;&#41;)
 
-[AP-DPM: A Dual-Path Merging Network via Adversarial Anatomical Prior Guidance for Wrist Bone Segmentation](https://ieeexplore.ieee.org/abstract/document/11356216))
+[AP-DPM: A Dual-Path Merging Network via Adversarial Anatomical Prior Guidance for Wrist Bone Segmentation](https://ieeexplore.ieee.org/abstract/document/11356216)
 
 
 **Songxiao Yang**, Haolin Wang, Masayuki Ikebe, Tamotsu Kamishima, Yafei Ou, Masatoshi Okutomi
