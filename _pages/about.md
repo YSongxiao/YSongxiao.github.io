@@ -77,7 +77,7 @@ BESegNet: A Bone Erosion Segmentation Network for Rheumatoid Arthritis in Conven
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BSPC 2026</div><img src='/images/bspc26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PixelINR: Scan-specific self-supervised MRI reconstruction based on implicit neural representations](https://www.sciencedirect.com/science/article/pii/S1746809425013497))
+[PixelINR: Scan-specific self-supervised MRI reconstruction based on implicit neural representations](https://www.sciencedirect.com/science/article/pii/S1746809425013497)
 
 [//]: # (A Light-weight Universal Medical Segmentation Network for Laptops Based on Knowledge Distillation &#40;to appear&#41;)
 
@@ -91,7 +91,7 @@ BESegNet: A Bone Erosion Segmentation Network for Rheumatoid Arthritis in Conven
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='/images/nips25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[RAM-W600: A Multi-Task Wrist Dataset and Benchmark for Rheumatoid Arthritis](https://openreview.net/forum?id=a61AArHrMO&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2025%2FDatasets_and_Benchmarks_Track%2FAuthors%23your-submissions)))
+[RAM-W600: A Multi-Task Wrist Dataset and Benchmark for Rheumatoid Arthritis](https://openreview.net/forum?id=a61AArHrMO&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2025%2FDatasets_and_Benchmarks_Track%2FAuthors%23your-submissions))
 
 [//]: # (A Light-weight Universal Medical Segmentation Network for Laptops Based on Knowledge Distillation &#40;to appear&#41;)
 
