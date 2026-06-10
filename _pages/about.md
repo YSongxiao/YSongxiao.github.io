@@ -58,7 +58,11 @@ My research interest includes medical imaging and computer vision.  <a href='htt
       A multi-task wrist X-ray dataset and benchmark for rheumatoid arthritis, designed for anatomical structure
       understanding and clinically relevant RA assessment.
     </p>
-    <a class="dataset-feature__button" href="https://openreview.net/forum?id=a61AArHrMO&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2025%2FDatasets_and_Benchmarks_Track%2FAuthors%23your-submissions)">View Paper</a>
+    <div class="dataset-feature__links dataset-feature__links--dark">
+      <a href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/92059c0ca1f2db0018e49b588d4f05e9-Abstract-Datasets_and_Benchmarks_Track.html">Paper</a>
+      <a href="https://huggingface.co/datasets/TokyoTechMagicYang/RAM-W600">Dataset</a>
+      <a href="https://github.com/YSongxiao/RAM-W600">Code</a>
+    </div>
   </div>
 </div>
 
