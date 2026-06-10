@@ -35,6 +35,34 @@ My research interest includes medical imaging and computer vision.  <a href='htt
 - *2024.04*: &nbsp;🎉🎉 New paper on MRI reconstruction is accepted by IEEE EMBC2024. 
 
 
+# 🚀 Featured Datasets
+
+<div class="dataset-feature">
+  <div class="dataset-feature__hero">
+    <div class="dataset-feature__tag">New · Full-hand RA benchmark</div>
+    <h3>RAM-H1200</h3>
+    <p>
+      A unified hand radiograph dataset for rheumatoid arthritis analysis, covering whole-hand bone instance segmentation,
+      pixel-level bone erosion masks, SvdH joint regions, and joint-level BE/JSN scoring.
+    </p>
+    <div class="dataset-feature__links">
+      <a href="https://arxiv.org/abs/2605.05616">Paper</a>
+      <a href="https://huggingface.co/datasets/TokyoTechMagicYang/RAM-H1200-v1">Dataset</a>
+      <a href="https://github.com/YSongxiao/RAM-H1200">Code</a>
+    </div>
+  </div>
+  <div class="dataset-feature__side">
+    <div class="dataset-feature__tag">NeurIPS 2025 · Wrist RA benchmark</div>
+    <h3>RAM-W600</h3>
+    <p>
+      A multi-task wrist X-ray dataset and benchmark for rheumatoid arthritis, designed for anatomical structure
+      understanding and clinically relevant RA assessment.
+    </p>
+    <a class="dataset-feature__button" href="https://openreview.net/forum?id=a61AArHrMO&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2025%2FDatasets_and_Benchmarks_Track%2FAuthors%23your-submissions)">View Paper</a>
+  </div>
+</div>
+
+
 # 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='/images/kdd26.png' alt="sym" width="100%"></div></div>
