@@ -59,9 +59,9 @@ My research interest includes medical imaging and computer vision.  <a href='htt
       understanding and clinically relevant RA assessment.
     </p>
     <div class="dataset-feature__links dataset-feature__links--dark">
-      <a href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/92059c0ca1f2db0018e49b588d4f05e9-Abstract-Datasets_and_Benchmarks_Track.html">Paper</a>
-      <a href="https://huggingface.co/datasets/TokyoTechMagicYang/RAM-W600">Dataset</a>
-      <a href="https://github.com/YSongxiao/RAM-W600">Code</a>
+      <a style="color:#00369f;background:rgba(0,54,159,.06);border-color:rgba(0,54,159,.28);" href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/92059c0ca1f2db0018e49b588d4f05e9-Abstract-Datasets_and_Benchmarks_Track.html">Paper</a>
+      <a style="color:#00369f;background:rgba(0,54,159,.06);border-color:rgba(0,54,159,.28);" href="https://huggingface.co/datasets/TokyoTechMagicYang/RAM-W600">Dataset</a>
+      <a style="color:#00369f;background:rgba(0,54,159,.06);border-color:rgba(0,54,159,.28);" href="https://github.com/YSongxiao/RAM-W600">Code</a>
     </div>
   </div>
 </div>
