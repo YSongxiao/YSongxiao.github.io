@@ -9,6 +9,105 @@
 <meta name="theme-color" content="#ffffff">
 <link rel="stylesheet" href="assets/css/academicons.css"/>
 
+<style>
+.dataset-feature {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  margin: 1.25rem 0 2rem;
+}
+
+.dataset-feature__hero,
+.dataset-feature__side {
+  padding: 1.35rem;
+  border: 1px solid #dce5f2;
+  border-radius: .9rem;
+  box-shadow: 0 12px 30px rgba(20, 37, 63, .08);
+}
+
+.dataset-feature__hero h3,
+.dataset-feature__side h3 {
+  margin: .55rem 0 .5rem;
+  font-size: 1.25rem;
+}
+
+.dataset-feature__hero p,
+.dataset-feature__side p {
+  margin: 0 0 1rem;
+  line-height: 1.55;
+}
+
+.dataset-feature__hero {
+  color: white;
+  background:
+    linear-gradient(135deg, rgba(0,54,159,.97), rgba(16,94,185,.9)),
+    radial-gradient(circle at top right, rgba(255,255,255,.28), transparent 42%);
+}
+
+.dataset-feature__hero h3,
+.dataset-feature__hero p,
+.dataset-feature__hero .dataset-feature__tag {
+  color: white;
+}
+
+.dataset-feature__side {
+  background:
+    linear-gradient(135deg, rgba(255,255,255,.95), rgba(246,249,253,.92)),
+    radial-gradient(circle at top right, rgba(0,54,159,.1), transparent 42%);
+}
+
+.dataset-feature__side h3 {
+  color: #00369f;
+}
+
+.dataset-feature__tag {
+  color: #5b6f8f;
+  font-size: .75rem;
+  font-weight: 800;
+  letter-spacing: .06em;
+  text-transform: uppercase;
+}
+
+.dataset-feature__links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .55rem;
+}
+
+.dataset-feature__links a {
+  padding: .45rem .8rem;
+  border: 1px solid rgba(255,255,255,.55);
+  border-radius: 999px;
+  color: white;
+  font-size: .85rem;
+  font-weight: 700;
+  text-decoration: none;
+  transition: background .18s ease, color .18s ease;
+}
+
+.dataset-feature__links a:hover {
+  color: #00369f;
+  background: white;
+  text-decoration: none;
+}
+
+.dataset-feature__button {
+  color: #00369f;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.dataset-feature__button:hover {
+  text-decoration: underline;
+}
+
+@media (min-width: 48em) {
+  .dataset-feature {
+    grid-template-columns: 1.35fr .85fr;
+  }
+}
+</style>
+
 <script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
