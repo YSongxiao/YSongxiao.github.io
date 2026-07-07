@@ -80,7 +80,7 @@ Tianyi Qu\*, **Songxiao Yang**\*, Haolin Wang*, Huadong Song, Xiaoting Guo, Weng
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMBC 2026</div><img src='/images/embc26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMBC 2026 (Oral)<span style="color: red; font-weight: bold;">(Student Best Paper Nomination)</span></div><img src='/images/embc26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [//]: # ([BESegNet: BESegNet: A Bone Erosion Segmentation Network for Rheumatoid Arthritis in Conventional Radiography]&#40;https://ieeexplore.ieee.org/abstract/document/11356216&#41;&#41;)
