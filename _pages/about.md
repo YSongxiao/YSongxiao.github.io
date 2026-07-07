@@ -26,7 +26,7 @@ My research interest includes medical imaging and computer vision.  <a href='htt
 
 
 # 🔥 News
-- *2026.07*: &nbsp;🎉🎉 Our EMBC 2026 paper was nominated for the Best Student Paper Award.
+- *2026.07*: &nbsp;🎉🎉 Our EMBC 2026 paper was selected as one of the finalists for the Best Student Paper Award.
 - *2026.05*: &nbsp;🎉🎉 New paper on Pipeline Magnetic Flux Leakage Imaging is accepted by SIGKDD2026.
 - *2026.05*: &nbsp;🎉🎉 New paper on Segmentation of Bone Erosion is accepted by IEEE EMBC2026.
 - *2025.10*: &nbsp;🎉🎉 New paper on Segmentation of Wrist Carpal Bones is accepted by IEEE BIBM2025.
@@ -81,7 +81,7 @@ Tianyi Qu\*, **Songxiao Yang**\*, Haolin Wang*, Huadong Song, Xiaoting Guo, Weng
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMBC 2026 (Oral)<span style="color: red; font-weight: bold;">(Student Best Paper Nomination)</span></div><img src='/images/embc26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMBC 2026 (Oral)<span style="color: red; font-weight: bold;">(Student Best Paper Finalist)</span></div><img src='/images/embc26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [//]: # ([BESegNet: BESegNet: A Bone Erosion Segmentation Network for Rheumatoid Arthritis in Conventional Radiography]&#40;https://ieeexplore.ieee.org/abstract/document/11356216&#41;&#41;)
