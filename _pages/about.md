@@ -26,6 +26,7 @@ My research interest includes medical imaging and computer vision.  <a href='htt
 
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉🎉 Our EMBC 2026 paper was nominated for the Best Student Paper Award.
 - *2026.05*: &nbsp;🎉🎉 New paper on Pipeline Magnetic Flux Leakage Imaging is accepted by SIGKDD2026.
 - *2026.05*: &nbsp;🎉🎉 New paper on Segmentation of Bone Erosion is accepted by IEEE EMBC2026.
 - *2025.10*: &nbsp;🎉🎉 New paper on Segmentation of Wrist Carpal Bones is accepted by IEEE BIBM2025.
