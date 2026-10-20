@@ -202,7 +202,8 @@ Zhongshu Zheng, Ling Ma, **Songxiao Yang**, Said Boumaraf, Xiabi Liu, Xiaohong M
 [//]: # (- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet]&#40;https://github.com&#41;, A, B, C, **CVPR 2020**)
 
 # 🎖 Honors and Awards
-- *2026.05* I received the Financial Assistance Award from NeurIPS 2026.
+- *2026.10* I received the Financial Assistance Award from NeurIPS 2026.
+- *2026.07* I was selected as one of the Open Finalists of Student Paper Competition of IEEE EMBC 2026.
 - *2026.05* I received the Student Travel Grant from IEEE EMBC 2026.
 - *2025.11* I received the Student Award from IEEE BIBM 2025.
 - *2025.10* I received the Scholar Award from NeurIPS 2025.
