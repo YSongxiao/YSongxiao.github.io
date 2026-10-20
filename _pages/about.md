@@ -202,7 +202,8 @@ Zhongshu Zheng, Ling Ma, **Songxiao Yang**, Said Boumaraf, Xiabi Liu, Xiaohong M
 [//]: # (- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet]&#40;https://github.com&#41;, A, B, C, **CVPR 2020**)
 
 # 🎖 Honors and Awards
-- *2025.11* I received the Student Travel Grant from IEEE EMBC 2026.
+- *2026.05* I received the Financial Assistance Award from NeurIPS 2026.
+- *2026.05* I received the Student Travel Grant from IEEE EMBC 2026.
 - *2025.11* I received the Student Award from BIBM 2025.
 - *2025.10* I received the Scholar Award from NeurIPS 2025.
 - *2024.06* I received the "Meritorious Winner Award"(Top5) from CVPR 2024: Segment Anything In Medical Images On Laptop.
@@ -211,6 +212,7 @@ Zhongshu Zheng, Ling Ma, **Songxiao Yang**, Said Boumaraf, Xiabi Liu, Xiaohong M
 
 # ⚖️ Academic Service
 - Reviewer of NeurIPS. (2026)
+- Reviewer of British Machine Vision Conference. (2026)
 - Reviewer of IEEE International Conference on Bioinformatics and Biomedicine. (2024~)
 
 # 📖 Educations
@@ -223,7 +225,7 @@ Zhongshu Zheng, Ling Ma, **Songxiao Yang**, Said Boumaraf, Xiabi Liu, Xiaohong M
 [//]: # (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]]&#40;https://github.com/&#41;)
 
 # 💻 Internships
-- *2025.01 - present*, AI Research Engineer, [Splink,inc.](https://www.splinkns.com/), Minato, Tokyo, Japan.
+- *2026.01 - 2026.09*, AI Research Engineer, [Splink,inc.](https://www.splinkns.com/), Minato, Tokyo, Japan.
 - *2025.06 - 2025.12*, Computer Vision Algorithm Engineer, [Huawei Japan Research Center](https://www.huawei.com/jp/), Shinagawa, Tokyo, Japan.
 - *2024.01 - 2024.06*, Computer Vision Algorithm Engineer, [Oppo Japan Research Center](https://www.oppo.com/jp/), Yokohama, Kanagawa, Japan.
 - *2022.09 - 2023.04*, Research Assistant, [Tokyo Institute of Technology](https://www.titech.ac.jp/english), Yokohama, Kanagawa, Japan.
