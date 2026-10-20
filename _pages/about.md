@@ -204,7 +204,7 @@ Zhongshu Zheng, Ling Ma, **Songxiao Yang**, Said Boumaraf, Xiabi Liu, Xiaohong M
 # 🎖 Honors and Awards
 - *2026.05* I received the Financial Assistance Award from NeurIPS 2026.
 - *2026.05* I received the Student Travel Grant from IEEE EMBC 2026.
-- *2025.11* I received the Student Award from BIBM 2025.
+- *2025.11* I received the Student Award from IEEE BIBM 2025.
 - *2025.10* I received the Scholar Award from NeurIPS 2025.
 - *2024.06* I received the "Meritorious Winner Award"(Top5) from CVPR 2024: Segment Anything In Medical Images On Laptop.
 - *2023.09* I received the "ICT Outstanding Student Award (Masters)" from the Department of Information and Communication Engineering.  
