@@ -27,8 +27,9 @@ My research interest includes medical imaging and computer vision.  <a href='htt
 
 # 🔥 News
 - *2026.10*: &nbsp;🎉🎉 I was recognized as a **Top Reviewer at NeurIPS 2026**.
+- *2026.09*: &nbsp;🎉🎉 I received my **Doctor of Engineering** degree from **Institute of Science Tokyo (formerly Tokyo Institute of Technology)**.
 - *2026.09*: &nbsp;🎉🎉 Our paper on RAM-H1200 has been accepted at NeurIPS 2026.
-- *2026.07*: &nbsp;🎉🎉 Our EMBC 2026 paper was selected as one of the finalists for the Best Student Paper Award.
+- *2026.07*: &nbsp;🎉🎉 Our EMBC 2026 paper was selected as one of the open finalists for the Student Paper Competition.
 - *2026.05*: &nbsp;🎉🎉 New paper on Pipeline Magnetic Flux Leakage Imaging is accepted by SIGKDD2026.
 - *2026.05*: &nbsp;🎉🎉 New paper on Segmentation of Bone Erosion is accepted by IEEE EMBC2026.
 - *2025.10*: &nbsp;🎉🎉 New paper on Segmentation of Wrist Carpal Bones is accepted by IEEE BIBM2025.
@@ -72,6 +73,17 @@ My research interest includes medical imaging and computer vision.  <a href='htt
 
 # 📝 Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class='badge'>NeurIPS 2026</div><img src='/images/nips26.png' alt='RAM-H1200 dataset overview' width='100%'></div></div>
+<div class='paper-box-text' markdown='1'>
+
+[RAM-H1200: A Unified Evaluation and Dataset on Hand Radiographs for Rheumatoid Arthritis](https://arxiv.org/abs/2605.05616)
+
+**Songxiao Yang**, Haolin Wang, Yao Fu, Junmu Peng, Lin Fan, Hongruixuan Chen, Jian Song, Masayuki Ikebe, Shinya Takamaeda-Yamazaki, Masatoshi Okutomi, Tamotsu Kamishima, Yafei Ou
+
+[**Dataset**](https://huggingface.co/datasets/TokyoTechMagicYang/RAM-H1200-v1) | [**Code**](https://github.com/YSongxiao/RAM-H1200)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='/images/kdd26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -83,7 +95,7 @@ Tianyi Qu\*, **Songxiao Yang**\*, Haolin Wang*, Huadong Song, Xiaoting Guo, Weng
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMBC 2026 (Oral)<span style="color: red; font-weight: bold;">(Student Best Paper Finalist)</span></div><img src='/images/embc26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMBC 2026 (Oral)<span style="color: red; font-weight: bold;">(Student Paper Competition Open Finalist)</span></div><img src='/images/embc26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [//]: # ([BESegNet: BESegNet: A Bone Erosion Segmentation Network for Rheumatoid Arthritis in Conventional Radiography]&#40;https://ieeexplore.ieee.org/abstract/document/11356216&#41;&#41;)
