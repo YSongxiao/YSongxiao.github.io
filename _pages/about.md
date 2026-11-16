@@ -28,17 +28,18 @@ My research interest includes medical imaging, computer vision, LLM Agent and VL
 
 <div class='news-scroll' markdown='1' tabindex='0' role='region' aria-label='News'>
 
+- *2026.10*: &nbsp;🎉🎉 I received Financial Assistance Award from **NeurIPS 2026**.
 - *2026.10*: &nbsp;🎉🎉 I was recognized as a **Top Reviewer at NeurIPS 2026**.
 - *2026.09*: &nbsp;🎉🎉 I received my **Doctor of Engineering** degree from **Institute of Science Tokyo (formerly Tokyo Institute of Technology)**.
-- *2026.09*: &nbsp;🎉🎉 Our paper on RAM-H1200 has been accepted at NeurIPS 2026.
-- *2026.07*: &nbsp;🎉🎉 Our EMBC 2026 paper was selected as one of the open finalists for the Student Paper Competition.
-- *2026.05*: &nbsp;🎉🎉 New paper on Pipeline Magnetic Flux Leakage Imaging is accepted by SIGKDD2026.
-- *2026.05*: &nbsp;🎉🎉 New paper on Segmentation of Bone Erosion is accepted by IEEE EMBC2026.
-- *2025.10*: &nbsp;🎉🎉 New paper on Segmentation of Wrist Carpal Bones is accepted by IEEE BIBM2025.
-- *2025.10*: &nbsp;🎉🎉 The extension of IEEE EMBC2024 paper is accepted by BSPC2026.
-- *2025.09*: &nbsp;🎉🎉 New paper on Multi-task X-Ray Rheumatoid Arthritis Database is accepted by NeurIPS2025.
+- *2026.09*: &nbsp;🎉🎉 Our paper on RAM-H1200 has been accepted at **NeurIPS 2026**.
+- *2026.07*: &nbsp;🎉🎉 Our EMBC 2026 paper was selected as one of the open finalists for the **Student Paper Competition**.
+- *2026.05*: &nbsp;🎉🎉 New paper on Pipeline Magnetic Flux Leakage Imaging is accepted by **SIGKDD 2026**.
+- *2026.05*: &nbsp;🎉🎉 New paper on Segmentation of Bone Erosion is accepted by IEEE EMBC 2026.
+- *2025.10*: &nbsp;🎉🎉 New paper on Segmentation of Wrist Carpal Bones is accepted by IEEE BIBM 2025.
+- *2025.10*: &nbsp;🎉🎉 The extension of IEEE EMBC2024 paper is accepted by BSPC 2026.
+- *2025.09*: &nbsp;🎉🎉 New paper on Multi-task X-Ray Rheumatoid Arthritis Database is accepted by **NeurIPS 2025**.
 - *2024.06*: &nbsp;🎉🎉 We achieved Top-5 in the CVPR 2024: Segment Anything In Medical Images On Laptop.
-- *2024.04*: &nbsp;🎉🎉 New paper on MRI reconstruction is accepted by IEEE EMBC2024. 
+- *2024.04*: &nbsp;🎉🎉 New paper on MRI reconstruction is accepted by IEEE EMBC 2024. 
 
 
 </div>
