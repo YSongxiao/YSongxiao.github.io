@@ -40,6 +40,23 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+.news-scroll {
+    max-height: 320px;
+    overflow-y: auto;
+    padding-right: 1em;
+
+    > ul {
+        margin-bottom: 0;
+    }
+}
+
+@media print {
+    .news-scroll {
+        max-height: none;
+        overflow: visible;
+    }
+}
+
 .paper-box {
     display: flex;
     justify-content: left;

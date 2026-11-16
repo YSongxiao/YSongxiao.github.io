@@ -18,14 +18,16 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Welcome to my homepage!
-I am a PhD student in Okutomi Lab at [Tokyo Institute of Technology](https://www.titech.ac.jp/). Currently I am working with [Masatoshi Okutomi](http://www.ok.sc.e.titech.ac.jp/mem/mxo/okutomi.html). 
-
-My research interest includes medical imaging and computer vision.  <a href='https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID&user=DA_FIFkAAAAJ'>
+I received my Ph.D. from [Institute of Science Tokyo](https://www.isct.ac.jp/en) (formerly [Tokyo Institute of Technology](https://www.titech.ac.jp/)), where I worked with Prof. [Masatoshi Okutomi](http://www.ok.sc.e.titech.ac.jp/mem/mxo/okutomi.html) at the [Okutomi Lab](http://www.ok.sc.e.titech.ac.jp/).
+My research interest includes medical imaging, computer vision, LLM Agent and VLA.  <a href='https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID&user=DA_FIFkAAAAJ'>
 
 [//]: # (google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> &#40;You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>&#41;.)
 
 
 # 🔥 News
+
+<div class='news-scroll' markdown='1' tabindex='0' role='region' aria-label='News'>
+
 - *2026.10*: &nbsp;🎉🎉 I was recognized as a **Top Reviewer at NeurIPS 2026**.
 - *2026.09*: &nbsp;🎉🎉 I received my **Doctor of Engineering** degree from **Institute of Science Tokyo (formerly Tokyo Institute of Technology)**.
 - *2026.09*: &nbsp;🎉🎉 Our paper on RAM-H1200 has been accepted at NeurIPS 2026.
@@ -38,6 +40,8 @@ My research interest includes medical imaging and computer vision.  <a href='htt
 - *2024.06*: &nbsp;🎉🎉 We achieved Top-5 in the CVPR 2024: Segment Anything In Medical Images On Laptop.
 - *2024.04*: &nbsp;🎉🎉 New paper on MRI reconstruction is accepted by IEEE EMBC2024. 
 
+
+</div>
 
 # 🚀 Featured Datasets
 
